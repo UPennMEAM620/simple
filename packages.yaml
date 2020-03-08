@@ -4,8 +4,8 @@
 # - name: PyKDL
 #   path: PyKDL
 #   build_py2_binary: False
-# - name: cv_bridge
-#   path: cv_bridge
+- name: cv_bridge
+  path: cv_bridge
 - name: tf2_py
   path: tf2_py
 - name: tf2_ros
